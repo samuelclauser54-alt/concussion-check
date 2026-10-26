@@ -1,0 +1,11 @@
+[theme]
+base = "light"
+primaryColor = "#1F4FD8"
+backgroundColor = "#F6F6F2"
+secondaryBackgroundColor = "#E9E9E2"
+textColor = "#14171F"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+headingFont = "Barlow Condensed:https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700&display=swap"
+
+[client]
+toolbarMode = "minimal"
